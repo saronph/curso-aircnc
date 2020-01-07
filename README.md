@@ -10,7 +10,7 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 
 ----------------------------------
 
-# Back-end :gear:
+# Back-end
 
 - [Pré requisitos](#pré-requisitos)
 - [Libs](#libs)
