@@ -13,10 +13,10 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 # Back-end
 
 - [Pré requisitos](#pré-requisitos)
+- [Instalação](#instalação)
 - [Libs](#libs)
 - [MongoDB](#mongodb)
 - [Requisições](#requisições)
-
 
 ### Pré requisitos
 
@@ -24,6 +24,13 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 - Node.js [Node.js v10.16](https://nodejs.org/)
 - Yarn [Yarn v1.13](https://yarnpkg.com/)
 - Google Chrome Browser [Google](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gclid=CjwKCAiAxMLvBRBNEiwAKhr-nMvKg5nZhwHd__xLE-Mume31jYijN5WLG991vsf4owDGK4VNHWtrEhoCNRgQAvD_BwE&gclsrc=aw.ds)
+
+### Instalação
+
+* Click em "Clone or download" aqui no github, copie a url.
+
+* Abra o terminal no local onde será criado a pasta do projeto, digite o comando abaixo, o url deve ser inserida sem aspas:
+> * git clone "url"
 
 ### Libs
 
