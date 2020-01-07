@@ -17,7 +17,6 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 - [Libs](#libs)
 - [MongoDB](#mongodb)
 - [Requisições](#requisições)
-=============================
 
 ### Pré requisitos
 
@@ -25,7 +24,6 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 - Node.js [Node.js v10.16](https://nodejs.org/)
 - Yarn [Yarn v1.13](https://yarnpkg.com/)
 - Google Chrome Browser [Google](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gclid=CjwKCAiAxMLvBRBNEiwAKhr-nMvKg5nZhwHd__xLE-Mume31jYijN5WLG991vsf4owDGK4VNHWtrEhoCNRgQAvD_BwE&gclsrc=aw.ds)
-=============================
 
 ### Instalação
 
@@ -33,7 +31,6 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 
 * Abra o terminal no local onde será criado a pasta do projeto, digite o comando abaixo:
 > * git clone https://github.com/saronph/Curso-AirCnC.git
-=============================
 
 ### Libs
 
@@ -53,7 +50,6 @@ Para instalação das libs você deve executar os comandos no terminal dentro do
 
 * Multer
 >	* yarn add multer ou npm install multer;
-=============================
 
 ### MongoDB
 
@@ -69,7 +65,6 @@ copy da url, e colocar no arquivo server.js como string, altere "username" e "pa
 "Database Access", altere a parte "test" dessa mesma URL para o nome da sua base de dados (foi utilizado a "semana").
 
 * [MongoDB Compass](https://www.mongodb.com/products/compass) é indicado para verificar as informações contidas do banco de bados.
-=============================
 
 ### Requisições
 
