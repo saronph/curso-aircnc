@@ -30,7 +30,7 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 * Click em "Clone or download" aqui no github, copie a url.
 
 * Abra o terminal no local onde será criado a pasta do projeto, digite o comando abaixo, o url deve ser inserida sem aspas:
-> * git clone "url"
+> * git clone https://github.com/saronph/Curso-AirCnC.git
 
 ### Libs
 
