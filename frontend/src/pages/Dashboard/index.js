@@ -27,7 +27,7 @@ export default function Dashboard() {
             const response = await api.get('/dashboard', {
                 headers: { user_id }
             });
-            //console.log(response.data);
+            console.log(response.data);
 
             setSpots(response.data);
         }        
@@ -66,6 +66,7 @@ export default function Dashboard() {
                 <li key={spot._id}>
                     <header style={{ backgroundImage: `url(${spot.thumbnail_url})` }} />
                     <strong>{spot.company}</strong>
+                    <span>{`${spot.techs}`}</span>
                     <span>{spot.price ? `R$${spot.price}/dia` : 'Gratuito'}</span>
                 </li> 
                 ))}
