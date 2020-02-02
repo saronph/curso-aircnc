@@ -1,6 +1,4 @@
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/saronph/Curso-AirCnC/master/frontend/src/assets/logo.svg">
-</h1>
+![alt text](https://raw.githubusercontent.com/saronph/Curso-AirCnC/master/frontend/src/assets/logo.svg)
 
 # Curso-AirCnC
 Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rocketseat](https://rocketseat.com.br/)
