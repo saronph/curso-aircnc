@@ -1,5 +1,5 @@
 <h1 align="center">
-[Contribution guidelines for this project](frontend/src/assets/logo.svg)
+<img src="https://raw.githubusercontent.com/saronph/Curso-AirCnC/master/frontend/src/assets/logo.svg">
 </h1>
 
 # Curso-AirCnC
@@ -21,7 +21,6 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 - [Libs](#libs)
 - [MongoDB](#mongodb)
 - [Requisições](#requisições)
-=============================
 
 ### Pré requisitos
 
@@ -29,7 +28,6 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 - Node.js [Node.js v10.16](https://nodejs.org/)
 - Yarn [Yarn v1.13](https://yarnpkg.com/)
 - Google Chrome Browser [Google](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gclid=CjwKCAiAxMLvBRBNEiwAKhr-nMvKg5nZhwHd__xLE-Mume31jYijN5WLG991vsf4owDGK4VNHWtrEhoCNRgQAvD_BwE&gclsrc=aw.ds)
-=============================
 
 ### Instalação
 
@@ -56,7 +54,6 @@ Para instalação das libs você deve executar os comandos no terminal dentro do
 
 * Multer
 >	* yarn add multer ou npm install multer;
-=============================
 
 ### MongoDB
 
@@ -68,11 +65,10 @@ api)**, e selecione a opção "Read and write to any database".
 
 * Volte para o "Clusters", click em "CONNECT", selecione "Connect Your Application", em "DRIVER" por "Node.js", em "VERSION" 
 selecione a sua versão (você pode verificar a sua digitando "node -v" no terminal) (minha versão é 3.0 or later), click em 
-copy da url, e colocar no arquivo ** server.js ** como string, altere "username" e "password" para o mesmo usuário criado em 
+copy da url, e colocar no arquivo **server.js** como string, altere "username" e "password" para o mesmo usuário criado em 
 "Database Access", altere a parte "test" dessa mesma URL para o nome da sua base de dados (foi utilizado a "semana").
 
 * [MongoDB Compass](https://www.mongodb.com/products/compass) é indicado para verificar as informações contidas do banco de bados.
-=============================
 
 ### Requisições
 
@@ -82,7 +78,6 @@ mesma pasta dos arquivos.
 
 * As rotas das requições estão presentes no arquivo routes.js, verifique os dados necessários de cada requisição nos arquivos
 dos controllers.
-=============================
 
 # Front-end
 
