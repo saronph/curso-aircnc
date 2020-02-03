@@ -37,22 +37,17 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 
 ### Libs
 
-Para instalação das libs você deve executar os comandos no terminal dentro do projeto.
+As libs serão instaladas como dependência do projeto, abaixo algumas utilizadas:
 
 * Express
->	* yarn add express ou npm install express;
 
 * Nodemon
->	* yarn add nodemon ou npm install nodemon;
 
 * Mongoose
->	* yarn add mongoose ou npm install mongoose;
 
 * Cors
->	* yarn add cors ou npm install cors;
 
 * Multer
->	* yarn add multer ou npm install multer;
 
 ### MongoDB
 
@@ -92,16 +87,13 @@ dos controllers.
 
 ### Libs Front-end
 
-Para instalação das libs você deve executar os comandos no terminal dentro do projeto front-end.
+As libs serão instaladas como dependência do projeto, abaixo algumas utilizadas:
 
 * React
->	* yarn add react;
 
 * React Router Dom
->	* yarn add react-router-dom;
 
 * Axios
->	* yarn add axios;
 
 ### Utilizando
 
