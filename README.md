@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/saronph/Curso-AirCnC/master/frontend/src/assets/logo.svg)
-
 # Curso-AirCnC
 Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rocketseat](https://rocketseat.com.br/)
 
@@ -33,6 +31,9 @@ Projeto semana Omnistack 9.0, utilizando React, NodeJS e React Native - [Rockets
 
 * Abra o terminal no local onde será criado a pasta do projeto, digite o comando abaixo:
 > * git clone https://github.com/saronph/Curso-AirCnC.git
+
+* Abra o terminal na pasta criada e instale as dependências com o código abaixo:
+> * yarn install
 
 ### Libs
 
@@ -71,7 +72,7 @@ copy da url, e colocar no arquivo **server.js** como string, altere "username" e
 ### Requisições
 
 * As requisições foram feitas para http://localhost:3333 via [Insomnia](https://insomnia.rest/download/), o endereço pode ser 
-alterado em server.js. Importate: o backend deve estar sendo executado pelo comando "yarn dev" via terminal na 
+alterado em server.js. **Importate**: o back-end deve estar sendo executado pelo comando "yarn dev" via terminal na 
 mesma pasta dos arquivos.
 
 * As rotas das requições estão presentes no arquivo routes.js, verifique os dados necessários de cada requisição nos arquivos
@@ -79,7 +80,38 @@ dos controllers.
 
 # Front-end
 
-- [Pré requisitos](#pré-requisitos)
-- [Libs](#libs)
-- [MongoDB](#mongodb)
-- [Requisições](#requisições)
+- [Instalação](#instalação-front-end)
+- [Libs](#libs-front-end)
+- [Utilizando](#utilizando)
+- [Demonstração](#demonstração-front-end)
+
+### Instalação Front-end
+
+* Abra o terminal na pasta do front-end criada e instale as dependências com o código abaixo:
+> * yarn install
+
+### Libs Front-end
+
+Para instalação das libs você deve executar os comandos no terminal dentro do projeto front-end.
+
+* React
+>	* yarn add react;
+
+* React Router Dom
+>	* yarn add react-router-dom;
+
+* Axios
+>	* yarn add axios;
+
+### Utilizando
+
+* Digite o código abaixo para utilizar, uma página será aberta em seu navegador. 
+>	* yarn start;
+
+**Importate**: o backend deve estar sendo executado pelo comando "yarn dev" via terminal.
+
+### Demonstração Front-end
+
+<h1 align="center">
+<img src="">
+</h1>
